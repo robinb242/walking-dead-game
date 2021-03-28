@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Tyreese",
+    "image": "http://cdn.collider.com/wp-content/uploads/the-walking-dead-season-4-episode-1-chad-l-coleman.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "Rick",
+    "image": "http://cdn.collider.com/wp-content/uploads/the-walking-dead-season-4-rick.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "Beth",
+    "image": "http://cdn.collider.com/wp-content/uploads/the-walking-dead-season-4-episode-1-emily-kinney.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "Sasha",
+    "image": "http://cdn.collider.com/wp-content/uploads/walking-dead-season-4-episode-1-sonequa-martin-green.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Glenn",
+    "image": "http://cdn.collider.com/wp-content/uploads/the-walking-dead-season-4-episode-2-glenn.jpg"
+  },
+
+  {
+    "id": 6,
+    "name": "Carl",
+    "image": "http://cdn.collider.com/wp-content/uploads/the-walking-dead-season-4-episode-2-chandler-riggs.jpg"
+  },
+
+  {
+    "id": 7,
+    "name": "Michonne",
+    "image": "http://cdn.collider.com/wp-content/uploads/the-walking-dead-season-4-episode-2-danai-gurira.jpg"
+  },
+
+  {
+    "id": 8,
+    "name": "Carol",
+    "image": "http://cdn.collider.com/wp-content/uploads/the-walking-dead-season-4-episode-3-melissa-mcbride.jpg"
+  },
+
+  {
+    "id": 9,
+    "name": "Daryl",
+    "image": "http://cdn.collider.com/wp-content/uploads/the-walking-dead-season-4-daryl.jpg"
+  },
+
+  {
+    "id": 10,
+    "name": "Maggie",
+    "image": "http://cdn.collider.com/wp-content/uploads/the-walking-dead-season-4-lauren-cohan.jpg"
+  },
+
+  {
+    "id": 11,
+    "name": "Hershel",
+    "image": "http://cdn.collider.com/wp-content/uploads/the-walking-dead-season-4-scott-wilson.jpg"
+  },
+
+  {
+    "id": 12,
+    "name": "The Governor",
+    "image": "http://cdn.collider.com/wp-content/uploads/the-walking-dead-season-4-david-morrissey.jpg"
+  }
+  
+]

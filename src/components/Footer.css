@@ -1,0 +1,32 @@
+.container {
+	padding-top: 10px;
+}
+
+.footer {
+  background: #8F1714;
+  height: 50px;
+  position: relative;
+  color: white;
+  overflow: auto;
+  margin-top: 5;
+  border: 0px;
+  border-style: solid;
+  border-color: #000000;
+
+ 
+}
+p.one {
+	padding-left: 5px;
+  letter-spacing: 1.3px;
+}
+ p.two {
+text-align: right;
+padding-right: 5px;
+padding-top: 20px;
+font-size: 1em;
+letter-spacing:1px;
+ }
+
+ #footerText {
+ 	border-bottom: .05px solid #000000;
+ }

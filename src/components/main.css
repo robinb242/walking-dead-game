@@ -1,0 +1,16 @@
+.img-responsive {
+  border: 2px;
+  border-style: solid;
+  border-color: #FFFFFF;
+}
+
+.img-responsive:hover {
+  border: 2px;
+  border-style: solid;
+  border-color: #8F1714;
+}
+.img-responsive:active {
+	border: 3px;
+	border-style: solid;
+	border-color: #000000;
+}

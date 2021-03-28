@@ -1,0 +1,47 @@
+.instructions {
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-size: 25px;
+	font-family: 'bangers', cursive;
+	color: #8F1714;
+}
+
+.headerContainer {
+	 border-left: red;
+	 border-width: 5px;
+	 padding-top: 15px;
+}
+h1.one {
+	
+padding-left: 60px;
+
+}
+h1.two {
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: white  white white #8F1714;
+	padding-left: 40px;
+}
+
+h1.three {
+	border-style: solid;
+	border-width: 1px;
+	border-color: white white white #8F1714;
+	text-align: right;
+	padding-right: 60px;
+}
+.one, .two, .three {
+	font-family: 'bangers', cursive;
+	font-size: 25px;
+}
+#idOne {
+	padding-left: 5px;
+	padding-right: 0px;
+}
+#idTwo {
+}
+#idThree {
+
+}
